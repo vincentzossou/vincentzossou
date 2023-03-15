@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vincentzossou
-- 👀 I’m interested in Deep Learning (Computer Vision, NLP), Ionic, NodeJS, Python
-- 🌱 I’m currently learning Biomedical imaging and solutions
+- 👀 I’m interested in Computer Vision, NLP, Machine Learning, Ionic, NodeJS, Python
+- 🌱 I’m currently learning computational medicine and biomedical image computing
 - 💞️ I’m looking to collaborate on 3D/4D image processing
 - 📫 How to reach me vincente.zossou@gmail.com
 
